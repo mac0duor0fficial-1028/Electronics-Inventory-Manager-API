@@ -1,0 +1,6 @@
+{
+  "name": "Electronics Inventory Manager",
+  "description": "A clean, responsive REST API client interface for managing an electronics product inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
